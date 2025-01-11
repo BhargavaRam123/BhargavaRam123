@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavaram123&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavaram123" /> </p>
 
-- 🔭 I’m currently working on [ketchupmail](https://github.com/BhargavaRam123/teamketchup)
-
 - 📫 How to reach me **allabhargavaram200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
